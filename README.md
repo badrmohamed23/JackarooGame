@@ -32,3 +32,4 @@ OOP Design: Player, Marble, Card, and Board classes with event-driven turns.
 
 How to Win
 Move all 4 marbles from your Home Zone → Base Cell → Safe Zone before CPU players do.
+![image](https://github.com/user-attachments/assets/25a7cad4-77f9-4970-be8e-04570758dade)
